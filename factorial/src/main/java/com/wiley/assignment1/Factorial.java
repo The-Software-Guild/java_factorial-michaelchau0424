@@ -49,7 +49,7 @@ public class Factorial {
 			this.num = Integer.parseInt(userInput);
 			return this.num;
 		default:
-			this.printStream.print("Invalid entry. Please enter an integer between 1 and 10, inclusive.");
+			this.printStream.print("Invalid entry. Please enter an integer between 1 and 10, inclusive");
 			return -1;
 			
 		}
