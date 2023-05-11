@@ -34,7 +34,7 @@ public class Factorial {
 		*/
 
 		//YOUR CODE STARTS HERE
-		String userInput = this.scanner.nextLine().strip();
+		String userInput = this.scanner.nextLine();
 		switch(userInput) {
 		case "1":
 		case "2":
